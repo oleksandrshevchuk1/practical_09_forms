@@ -1,0 +1,62 @@
+[
+  {
+    "seconds": 0.0,
+    "action": "Початковий стан застосунку",
+    "screenshot": "screenshots/android/01.png"
+  },
+  {
+    "seconds": 2.3,
+    "action": "Авторизація: помилки валідації порожніх полів",
+    "screenshot": "screenshots/android/02.png"
+  },
+  {
+    "seconds": 8.0,
+    "action": "Екран реєстрації",
+    "screenshot": "screenshots/android/03.png"
+  },
+  {
+    "seconds": 13.4,
+    "action": "Реєстрація: помилки валідації порожніх полів",
+    "screenshot": "screenshots/android/04.png"
+  },
+  {
+    "seconds": 18.8,
+    "action": "Повернення до авторизації",
+    "screenshot": "screenshots/android/05.png"
+  },
+  {
+    "seconds": 24.3,
+    "action": "Екран відновлення пароля",
+    "screenshot": "screenshots/android/06.png"
+  },
+  {
+    "seconds": 29.6,
+    "action": "Відновлення: помилка валідації порожнього email",
+    "screenshot": "screenshots/android/07.png"
+  },
+  {
+    "seconds": 35.4,
+    "action": "Повернення для перевірки формату email та пароля",
+    "screenshot": "screenshots/android/08.png"
+  },
+  {
+    "seconds": 41.0,
+    "action": "Невірний формат email",
+    "screenshot": "screenshots/android/09.png"
+  },
+  {
+    "seconds": 57.5,
+    "action": "Пароль коротший за 7 символів",
+    "screenshot": "screenshots/android/10.png"
+  },
+  {
+    "seconds": 69.4,
+    "action": "Помилки формату email та довжини пароля",
+    "screenshot": "screenshots/android/11.png"
+  },
+  {
+    "seconds": 76.6,
+    "action": "Підсумковий стан",
+    "screenshot": "screenshots/android/12.png"
+  }
+]
